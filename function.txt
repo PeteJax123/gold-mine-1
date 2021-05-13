@@ -1,0 +1,1 @@
+function dot json file from MT repo. 
